@@ -118,7 +118,7 @@ README.md
 
 ⚙️ Installation
 1. Clone the repository
-git clone https://github.com/yourname/gistify.git
+git clone https://github.com/sangeethsanthosh-git/gistify.git
 cd gistify
 
 2. Install dependencies
