@@ -12,6 +12,21 @@ Gistify helps users cut through information overload. Instead of reading dozens 
 
 You upload a PDF or paste text → Gistify analyzes it → and returns:
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+<img src="./public/home.png" width="650" />
+
+### 📤 Upload Document
+<img src="./public/upload.png" width="650" />
+
+### 📊 Analysis Result Page
+<img src="./public/result.png" width="650" />
+
+### 📥 Download PDF
+<img src="./public/download.png" width="650" />
+
+
 📄 Document Type Detection
 
 🧠 Key Summary
