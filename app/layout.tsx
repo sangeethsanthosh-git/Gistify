@@ -2,7 +2,7 @@ import "./globals.css";
 import type { ReactNode } from "react";
 
 export const metadata = {
-  title: "Document Multi-Agent Breakdown",
+  title: "Gistify",
   description: "Analyze documents with a multi-agent workflow"
 };
 
