@@ -15,7 +15,7 @@ You upload a PDF or paste text → Gistify analyzes it → and returns:
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-<img src="./public/home.png" width="650" />
+<img src="./public/home.png" align="center" width="650" />
 
 ### 📤 Upload Document
 <img src="./public/upload.png" width="650" />
